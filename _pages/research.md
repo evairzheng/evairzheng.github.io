@@ -28,7 +28,7 @@ author_profile: true
 
 ## Demand information sharing in a green supply chain under upstream competition
 - with Minghui Xu, Xintong Shi and Hui Shen
-- Submit to EJOR
+<!-- - Submit to EJOR -->
 - Highlights
     - Develop a game-theoretic model with two competing manufacturers selling substitutable green products through a common retailer, who has a private demand signal.
     - Examine the incentives of firms to form an information-sharing partnership without or with a side payment contract in both serial and parallel settings.
