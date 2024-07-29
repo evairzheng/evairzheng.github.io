@@ -20,13 +20,13 @@ My primary research interests are supply chain management, information asymmetry
 
 # 🎓 Education
 
-- Wuhan University, Sep 2022 — Jun 2025
-  - Master in Management Science and Engineering.
-  - GPA: 3.5/4.0 (Score: 88.7).
+- Wuhan University, 2022 — 2025
+  - Master in Management Science and Engineering
+  - GPA: 3.5/4.0 (Score: 88.7)
   - Supervisor: Prof. Minghui Xu ([link](https://ems.whu.edu.cn/info/1718/10647.htm))
-- 2018 — 2022  &#124;  School of Management  &#124;  Zhengzhou University
-  - Bachelor in Electronic Business.
-  - GPA: 3.8/4.0 (Score: 90.0, Ranked 1st).
+- Zhengzhou University, 2018 — 2022
+  - Bachelor in Electronic Business
+  - GPA: 3.8/4.0 (Score: 90.0, Ranked 1st)
   - Supervisor: Dr. Yu Wang ([link](http://www7.zzu.edu.cn/glxy/info/1501/5202.htm))
 
 ------
