@@ -1,7 +1,8 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: http://evairzheng.github.io/files/CV-YiweiZheng.pdf
 
   - title: "Research"
     url: /research/

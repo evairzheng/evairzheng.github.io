@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiwei Zheng"
 title_separator          : "-"
 name                     : &name "Yiwei Zheng"
-description              : &description "Master Student at Wuhan University"
+description              : &description "Master Student in Wuhan University"
 url                      : https://evairzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evairzheng/evairzheng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiwei Zheng (郑义威)"
   avatar           : "profile.png"
-  bio              : "Master Student at Wuhan University"
+  bio              : "Master Student in Wuhan University"
   location         : "Wuhan City, Hubei Province"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "evairzheng"
+  github           : # "evairzheng"
   google_plus      :
   keybase          :
   instagram        :
