@@ -14,7 +14,7 @@ I am Yiwei Zheng (郑义威), a second-year master student in Wuhan University.
 
 Currently, <i style="color: red">I am looking for a Ph.D. position in operations management</i>.
 
-My primary research interests are supply chain management, information asymmetry, demand information sharing, platform operations and their intersections.
+My primary research interests are supply chain management and online platform operations. I focus on problems concerning information asymmetry, especially in demand information sharing. I use *Microeconomics*, *Game Theory*, and *Theory of Industrial Organization* to build theoretic models and acquire managerial implications.
 
 ------
 
@@ -45,5 +45,7 @@ My primary research interests are supply chain management, information asymmetry
 
 - Participant, CSAMSE Conference, Xiamen, 2024
 - Participant, Summer School, College of Management and Economics, Tianjin University, 2023
-- Teaching Assistant, Supply Chain \& Operations Management, 2022 Spring
+- Participant, ISCOM Conference, Online, 2022
+- Participant, Academic Summer Camp of Supply Chain & Operations Management, Online, 2022
+- Teaching Assistant, Supply Chain & Operations Management, 2022 Spring
 - Student Secretary, Department of Management Science and Engineering, since 2022

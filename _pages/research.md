@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 # 💡 Research interets
-- supply chain management
-- information asymmetry
-- demand information sharing
-- platform operation
+- Supply chain management
+- Information asymmetry
+- Demand information sharing
+- Online platform operations
 
 ---
 
