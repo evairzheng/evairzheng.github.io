@@ -12,7 +12,7 @@ redirect_from:
 
 I am Yiwei Zheng (郑义威), a third-year master student in Wuhan University. 
 
-Currently, <i style="color: red">I am looking for a Ph.D. position in the interface between OM&IS</i>.
+Currently, <i style="color: red">I am looking for a Ph.D. position in the interface between OM & IS and OM & Marketing</i>.
 
 My primary research interests are supply chain management and online platform operations. I focus on problems concerning information asymmetry, especially in demand information sharing. I use Microeconomics, Game Theory, and Theory of Industrial Organization to build theoretic models and acquire managerial implications.
 
