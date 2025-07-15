@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "CV"
-    # url: /cv/
-    url: http://evairzheng.github.io/files/CV-YiweiZheng.pdf
+  # - title: "CV"
+  #   # url: /cv/
+  #   url: http://evairzheng.github.io/files/CV-YiweiZheng.pdf
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   # - title: "Blog Posts"
   #   url: /year-archive/

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiwei Zheng"
 title_separator          : "-"
 name                     : &name "Yiwei Zheng"
-description              : &description "Master Student in Wuhan University"
+description              : &description "PhD Student in UT Dallas"
 url                      : https://evairzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evairzheng/evairzheng.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiwei Zheng (郑义威)"
+  name             : "郑义威 Yiwei Zheng"
   avatar           : "profile.png"
-  bio              : "Master Student in Wuhan University"
-  location         : "Wuhan City, Hubei Province"
+  bio              : "First-Year PhD Student"
+  location         : "Richardson, TX 75080"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "evairzheng@whu.edu.cn"
+  email            :  "Yiwei.Zheng@UTDallas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  university       : "The University of Texas at Dallas"
 
 
 # Reading Files
