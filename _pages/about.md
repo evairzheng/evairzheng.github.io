@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Yiwei Zheng | UT Dallas"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,12 +12,16 @@ redirect_from:
 <!-- # Short Bio -->
 
 I am Yiwei Zheng (郑义威). 
-I joined as a PhD student at the University of Texas at Dallas in fall 2025. 
+I joined as a Ph.D. student at the University of Texas at Dallas in fall 2025. 
 <i style="color: red">Prospective and potential cooperations are highly welcome!</i>
 
 <!-- Currently, <i style="color: red">I am looking for a Ph.D. position in the interface between OM & IS and OM & Marketing</i>. -->
 
-My primary research interests are supply chain management and online platform operations. I focus on problems concerning information asymmetry, especially in demand information sharing. I use Microeconomics, Game Theory, and Theory of Industrial Organization to build theoretic models and acquire managerial implications.
+My primary research interests are supply chain management and online platform operations. I focus on problems concerning information asymmetry, especially in demand information sharing. I use Microeconomics, Game Theory, and Theory of Industrial Organization to build theoretic models and to acquire managerial implications.
+
+> "By your endurance, gain your lives." (Luke 21:19)
+> 
+> "The one who endures to the end, he will be saved." (Matthew 24:13) 
 
 
 ## 🎓 Education
