@@ -79,5 +79,5 @@ My primary research interests are supply chain management and online platform op
 - Participant, Summer School, College of Management and Economics, Tianjin University, 2023
 - Participant, ISCOM Conference, Online, 2022
 <!-- - Participant, Academic Summer Camp of Supply Chain & Operations Management, Online, 2022 -->
-- Teaching Assistant, Supply Chain & Operations Management, 2022 Spring
+- Teaching Assistant, Supply Chain & Operations Management, 2023 Spring
 - Student Secretary, Department of Management Science and Engineering, 2022-2025
