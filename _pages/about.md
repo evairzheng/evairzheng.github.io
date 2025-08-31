@@ -11,17 +11,19 @@ redirect_from:
 # About me 🚀
 <!-- # Short Bio -->
 
-I am Yiwei Zheng (郑义威). 
-I joined as a Ph.D. student at the University of Texas at Dallas in fall 2025. 
+Greeting! I am Yiwei Zheng (郑义威). 
+Currently, I am an Information Systems Ph.D. student in Jindal School of Management, the University of Texas at Dallas. 
 <i style="color: red">Prospective and potential cooperations are highly welcome!</i>
 
 <!-- Currently, <i style="color: red">I am looking for a Ph.D. position in the interface between OM & IS and OM & Marketing</i>. -->
 
-My primary research interests are supply chain management and online platform operations. I focus on problems concerning information asymmetry, especially in demand information sharing. I use Microeconomics, Game Theory, and Theory of Industrial Organization to build theoretic models and to acquire managerial implications.
+My primary research interest lies on economics of IS. I focus on problems concerning online platform operations under information asymmetry. I use Microeconomics, Game Theory, and Theory of Industrial Organization to build theoretic models and to acquire managerial implications.
 
-> "By your endurance, gain your lives." (Luke 21:19)
+I am a big fan of [G.E.M.](https://www.instagram.com/gem0816/), and she makes me believed that *"the one who endures to the end, he will be saved."*
+
+<!-- > "By your endurance, gain your lives." (Luke 21:19)
 > 
-> "The one who endures to the end, he will be saved." (Matthew 24:13) 
+> "The one who endures to the end, he will be saved." (Matthew 24:13)  -->
 
 
 ## 🎓 Education
@@ -74,10 +76,11 @@ My primary research interests are supply chain management and online platform op
 
 ## 💼 Activities
 
+- Teaching Assistant, Information Technology for Business, 2025 Fall
 - Session Speaker, POMS-HK Conference, HongKong, 2025
 - Participant, CSAMSE Conference, Xiamen, 2024
 - Participant, Summer School, College of Management and Economics, Tianjin University, 2023
 - Participant, ISCOM Conference, Online, 2022
 <!-- - Participant, Academic Summer Camp of Supply Chain & Operations Management, Online, 2022 -->
 - Teaching Assistant, Supply Chain & Operations Management, 2023 Spring
-- Student Secretary, Department of Management Science and Engineering, 2022-2025
+- Student Secretary, Department of Management Science and Engineering, Wuhan University, 2022-2025

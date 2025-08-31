@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "郑义威 Yiwei Zheng"
   avatar           : "profile-whu.png"
-  bio              : "Ph.D. Student in Management Science"
+  bio              : "Ph.D. Student in Information Systems"
   location         : "Richardson, TX 75080"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :  "Yiwei.Zheng@UTDallas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://jindal.utdallas.edu/phd-students/yiwei-zheng"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "zheng-yiwei"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
