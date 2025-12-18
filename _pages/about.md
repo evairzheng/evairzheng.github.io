@@ -19,7 +19,7 @@ Currently, I am an Information Systems Ph.D. student in Jindal School of Manage
 
 My primary research interest lies on economics of IS. I focus on problems concerning online platform operations under information asymmetry. I use Microeconomics, Game Theory, and Theory of Industrial Organization to build theoretic models and to acquire managerial implications.
 
-I am a big fan of [G.E.M.](https://www.instagram.com/gem0816/), and she makes me believed that *"the one who endures to the end, he will be saved."*
+I am a big fan of [G.E.M.](https://www.instagram.com/gem0816/). She gives me the faith that *"the one who endures to the end, he will be saved."*
 
 <!-- > "By your endurance, gain your lives." (Luke 21:19)
 > 
@@ -77,6 +77,7 @@ I am a big fan of [G.E.M.](https://www.instagram.com/gem0816/), and she makes me
 ## 💼 Activities
 
 - Teaching Assistant, Information Technology for Business, 2025 Fall
+- Participant, CIST Conference, Atlanta, 2025
 - Session Speaker, POMS-HK Conference, HongKong, 2025
 - Participant, CSAMSE Conference, Xiamen, 2024
 - Participant, Summer School, College of Management and Economics, Tianjin University, 2023
