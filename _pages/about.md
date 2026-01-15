@@ -42,7 +42,7 @@ I am a big fan of [G.E.M.](https://www.instagram.com/gem0816/). She gives me the
 
 ### Publications
 
-1. Xu Minghui, **Yiwei Zheng**, Xintong Shi, and Hui Shen (2025), "Demand Information Sharing in a Green Supply Chain under Upstream Competition," ***Naval Research Logistics***, 73(1), 99-116. [[link]](http://doi.org/10.1002/nav.70003)
+1. Xu Minghui, **Yiwei Zheng**, Xintong Shi, and Hui Shen (2026), "Demand Information Sharing in a Green Supply Chain under Upstream Competition," ***Naval Research Logistics***, 73(1), 99-116. [[link]](http://doi.org/10.1002/nav.70003)
 2. Xu Minghui, Hui Shen, and **Yiwei Zheng** (2023), "Dynamic Pricing with Product Quality Information Updates Considering Consumer Time Preferences," ***Systems Engineering — Theory & Practice***, 43(10), 2989–3006. (in Chinese) [[link]](https://link.cnki.net/urlid/11.2267.N.20230608.1355.010)
    
 <!-- 
