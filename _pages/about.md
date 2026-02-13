@@ -52,7 +52,7 @@ I am a big fan of [G.E.M.](https://www.instagram.com/gem0816/). She gives me the
 
 ### Selected Working Papers
 
-1. **Zheng Yiwei** and Minghui Xu, "Contract Unobservability and Information Sharing."
+1. **Zheng Yiwei**, Jianqing Chen, Srinivasan Raghunathan, and Minghui Xu, "Hide to Gain Visibility: Inducing Collaboration through Strategic Contract Unobservability." [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206038)
 
 
 ## 🏆 Honors and Awards
